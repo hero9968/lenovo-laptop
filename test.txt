@@ -1,0 +1,10 @@
+this is test !
+git init
+git add file
+git commit -m "comment"
+git commit
+git status
+git diff filename
+++++++++++++++++++++++++++++++++++++++++
+=======================================
+git log
